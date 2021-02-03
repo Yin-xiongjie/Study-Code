@@ -1,0 +1,5 @@
+﻿  1.cpp
+d:\c++\练习\文件\s输入输出\s输入输出\1.cpp(7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  S输入输出.vcxproj -> D:\C++\练习\文件\S输入输出\Debug\S输入输出.exe
+  S输入输出.vcxproj -> D:\C++\练习\文件\S输入输出\Debug\S输入输出.pdb (Full PDB)

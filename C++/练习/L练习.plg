@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LÁ·Ï° - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\yinxi\AppData\Local\Temp\RSP2579.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/LÁ·Ï°.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\C++\Á·Ï°\LÁ·Ï°.c"
+]
+Creating command line "cl.exe @C:\Users\yinxi\AppData\Local\Temp\RSP2579.tmp" 
+<h3>Output Window</h3>
+Compiling...
+LÁ·Ï°.c
+d:\360downloads\microsoft visual studio\vc98\mfc\include\afx.h(15) : fatal error C1189: #error :  MFC requires C++ compilation (use a .cpp suffix)
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+LÁ·Ï°.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

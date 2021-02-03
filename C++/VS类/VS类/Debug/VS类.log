@@ -1,0 +1,6 @@
+﻿  Lei.cpp
+  LandOwnerV1.cpp
+d:\c++\vs类\vs类\landownerv1.cpp(64): error C3867: “LandOwnerV1::Gettotal”: 非标准语法；请使用 "&" 来创建指向成员的指针
+d:\c++\vs类\vs类\landownerv1.cpp(64): error C2296: “>”: 非法，左操作数包含“float (__thiscall LandOwnerV1::* )(void)”类型
+d:\c++\vs类\vs类\landownerv1.cpp(64): error C2297: “>”: 非法，右操作数包含“float (__thiscall LandOwnerV1::* )(void)”类型
+  正在生成代码...

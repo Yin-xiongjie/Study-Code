@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head yin = "beautiful">
+<head>
+    <meta charset="UTF-8">
+    <title>留言板提交</title>
+    <?include("add.php")?>
+    <link href = "style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<b><a href = "add.php">查看留言</a> </b>
+<hr size="1">
+    <form action="add.php" method = "post">
+        用户：<input type = "text" size="20"  name="user"/><br/><br/>
+        标题：<input type="text" size="20" name = "title"/><br/><br/>
+        内容：<textarea  name = "content" ></textarea><br/><br/>
+        <input type="submit"  name = "submit" value="发布留言"/> <br/>
+    </form>
+</body>
+</html>

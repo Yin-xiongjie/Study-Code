@@ -1,0 +1,3 @@
+﻿  Client2.cpp
+  EasyClient2TCP.vcxproj -> D:\C++\练习\网络编程\HelloSocket\../bin/Win32/Debug\EasyClient2TCP.exe
+d:\c++\练习\网络编程\easyclient2tcp\client2.cpp(11): warning C6031: 返回值被忽略: “WSAStartup”。

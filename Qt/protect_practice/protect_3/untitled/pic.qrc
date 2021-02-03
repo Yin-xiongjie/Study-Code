@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="放大.hover">image/放大(1).png</file>
+        <file alias="放大">image/放大.png</file>
+        <file alias="关闭.hover">image/关闭(1).png</file>
+        <file alias="关闭">image/关闭.png</file>
+        <file alias="缩小.hover">image/缩小(1).png</file>
+        <file alias="缩小">image/缩小.png</file>
+    </qresource>
+</RCC>

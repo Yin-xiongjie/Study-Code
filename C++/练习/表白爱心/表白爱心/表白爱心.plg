@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 表白爱心 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\20835\AppData\Local\Temp\RSPCEED.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/表白爱心.pdb" /debug /machine:I386 /out:"Debug/表白爱心.exe" /pdbtype:sept 
+".\Debug\表白爱心.obj"
+]
+Creating command line "link.exe @C:\Users\20835\AppData\Local\Temp\RSPCEED.tmp"
+<h3>Output Window</h3>
+Linking...
+表白爱心.obj : warning LNK4044: unrecognized option "FAILIFMISMATCH:_CRT_STDIO_ISO_WIDE_SPECIFIERS=0"; ignored
+表白爱心.obj : warning LNK4044: unrecognized option "alternatename:@__CheckForDebuggerJustMyCode@4=__JustMyCode_Default"; ignored
+表白爱心.obj : error LNK2001: unresolved external symbol __imp____acrt_iob_func
+表白爱心.obj : error LNK2001: unresolved external symbol __imp____stdio_common_vfprintf
+表白爱心.obj : error LNK2001: unresolved external symbol @__CheckForDebuggerJustMyCode@4
+表白爱心.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+表白爱心.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+表白爱心.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+Debug/表白爱心.exe : fatal error LNK1120: 6 unresolved externals
+执行 link.exe 时出错.
+
+
+
+<h3>Results</h3>
+表白爱心.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

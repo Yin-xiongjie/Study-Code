@@ -1,0 +1,4 @@
+﻿  虚函数表cpp.cpp
+D:\Code\C++\虚函数、虚表、多态\虚函数表cpp.cpp(77,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\Code\C++\虚函数、虚表、多态\虚函数表cpp.cpp(79,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  虚函数、虚表、多态.vcxproj -> D:\Code\C++\虚函数、虚表、多态\Debug\虚函数、虚表、多态.exe

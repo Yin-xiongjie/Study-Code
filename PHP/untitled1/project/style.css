@@ -1,0 +1,17 @@
+form{
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+body{
+    font-size: 16px;
+    line-height: 13px;
+    background-color: wheat;
+}
+textarea{
+    font-size: 10px;
+    font-family: 黑体;
+    border: 1px solid #9999cc;
+    padding: 5px;
+    color:black;
+}
